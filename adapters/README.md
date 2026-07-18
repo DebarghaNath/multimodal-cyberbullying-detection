@@ -7,12 +7,13 @@ The complete **InternVL2.5-8B** model is **not included** in this repository due
 ---
 
 # Available Adapters
+**🤗 Hugging Face Repository:**  
+https://huggingface.co/debarghaNath/BullyingMemeDetector
 
-| Stage | Description | Hugging Face |
-|------|-------------|--------------|
-| **Stage I — Supervised Fine-Tuning (SFT)** | Learns the forensic reasoning schema and structured multimodal annotations. | 🤗 **<https://huggingface.co/debarghaNath/BullyingMemeDetector/tree/main>** |
-| **Stage II — Direct Preference Optimization (DPO)** | Aligns the model with expert preferences, improving reasoning on implicit cyberbullying and reducing boundary ambiguity. | 🤗 **<https://huggingface.co/debarghaNath/BullyingMemeDetector/tree/main>** |
-
+| Stage | Description | Adapter Directory |
+|------|-------------|-------------------|
+| **Stage I — Supervised Fine-Tuning (SFT)** | Learns the forensic reasoning schema and structured multimodal annotations. | `1000_32_best_model` |
+| **Stage II — Direct Preference Optimization (DPO)** | Aligns the model with expert preferences, improving reasoning on implicit cyberbullying and reducing boundary ambiguity. | `DPO_v2_best_model` |
 ---
 
 # Base Model
