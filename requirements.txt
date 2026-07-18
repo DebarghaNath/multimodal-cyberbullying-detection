@@ -1,0 +1,15 @@
+torch
+torchvision
+transformers
+accelerate
+datasets
+peft
+trl
+ms-swift
+huggingface_hub
+pillow
+opencv-python
+scikit-learn
+numpy
+pandas
+matplotlib
