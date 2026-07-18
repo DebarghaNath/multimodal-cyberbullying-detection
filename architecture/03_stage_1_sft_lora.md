@@ -3,7 +3,9 @@
 ## Structural Domain Adaptation
 The first stage of the transfer learning pipeline focuses on adapting the base model to the specific forensic schema without losing its general world knowledge.
 
-![SFT Pipeline Overview](image19_2.jpg)
+<p align="center">
+  <img src="../assets/SFT_Pipeline.jpg" width="650" alt="Bullying Distribution">
+</p>
 
 ## LoRA Configuration & Hyperparameters
 Based on the execution parameters, the training environment is configured as follows:
