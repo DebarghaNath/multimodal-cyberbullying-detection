@@ -21,7 +21,7 @@ This directory documents the datasets used for training and evaluating the **Mul
 # SFT Dataset Distribution
 
 <p align="center">
-  <img src="../assets/.png" width="650" alt="Bullying Distribution">
+  <img src="../assets/SFT_bullying_distribution.jpg" width="650" alt="Bullying Distribution">
 </p>
 
 The SFT dataset contains **1,003** manually curated multimodal meme samples.
@@ -38,7 +38,7 @@ The dataset intentionally contains a larger number of bullying samples to expose
 # Severity Distribution
 
 <p align="center">
-  <img src="../assets/severity_distribution.png" width="700" alt="Severity Distribution">
+  <img src="../assets/SFT_severity_distribution.jpg" width="700" alt="Severity Distribution">
 </p>
 
 ---
@@ -46,7 +46,7 @@ The dataset intentionally contains a larger number of bullying samples to expose
 # Target Group Distribution
 
 <p align="center">
-  <img src="../assets/target_distribution.png" width="850" alt="Target Group Distribution">
+  <img src="../assets/SFT_target_group_distribution.jpg" width="850" alt="Target Group Distribution">
 </p>
 
 ---
@@ -54,7 +54,7 @@ The dataset intentionally contains a larger number of bullying samples to expose
 # Bullying Mechanism Distribution
 
 <p align="center">
-  <img src="../assets/mechanism_distribution.png" width="850" alt="Mechanism Distribution">
+  <img src="../assets/SFT_mechanism_distribution.jpg" width="850" alt="Mechanism Distribution">
 </p>
 
 ---
@@ -62,7 +62,7 @@ The dataset intentionally contains a larger number of bullying samples to expose
 # Bullying Type Distribution
 
 <p align="center">
-  <img src="../assets/type_distribution.png" width="850" alt="Type Distribution">
+  <img src="../assets/SFT_type_distribution.jpg" width="850" alt="Type Distribution">
 </p>
 
 ---
@@ -134,10 +134,10 @@ The preference pairs were designed to improve the model's ability to:
 
 ---
 
-## DPO Label Distribution
+## DPO Data Distribution
 
 <p align="center">
-  <img src="../assets/dpo_bullying_distribution.png" width="700" alt="DPO Bullying Distribution">
+  <img src="../assets/DPO_bullying_distribution.jpg" width="700" alt="DPO Bullying Distribution">
 </p>
 
 ---
@@ -145,7 +145,7 @@ The preference pairs were designed to improve the model's ability to:
 ## DPO Target Distribution
 
 <p align="center">
-  <img src="../assets/dpo_target_distribution.png" width="850" alt="DPO Target Distribution">
+  <img src="../assets/DPO_target_group_distribution.jpg" width="850" alt="DPO Target Distribution">
 </p>
 
 ---
@@ -153,7 +153,7 @@ The preference pairs were designed to improve the model's ability to:
 ## DPO Mechanism Distribution
 
 <p align="center">
-  <img src="../assets/dpo_mechanism_distribution.png" width="850" alt="DPO Mechanism Distribution">
+  <img src="../assets/DPO_mechanism_distribution.jpg" width="850" alt="DPO Mechanism Distribution">
 </p>
 
 ---
@@ -161,7 +161,7 @@ The preference pairs were designed to improve the model's ability to:
 ## DPO Type Distribution
 
 <p align="center">
-  <img src="../assets/dpo_type_distribution.png" width="850" alt="DPO Type Distribution">
+  <img src="../assets/DPO_type_distribution.jpg" width="850" alt="DPO Type Distribution">
 </p>
 
 ---
@@ -180,10 +180,3 @@ Performance on this dataset:
 
 ---
 
-## Confusion Matrix
-
-<p align="center">
-  <img src="../assets/confusion_matrix.png" width="600" alt="Confusion Matrix">
-</p>
-
----
