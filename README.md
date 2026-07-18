@@ -1,6 +1,6 @@
 # Multimodal Cyberbullying Detection using LVLMs
 
-**B.Tech Project Report — IIT Bhubaneswar (Department of Computer Science and Engineering)**
+**B.Tech Project — IIT Bhubaneswar (Department of Computer Science and Engineering)**
 **Author:** Debargha Nath (22CS01070)
 **Supervisor:** Dr. Padmalochan Bera
 **Date:** 5 May 2026
