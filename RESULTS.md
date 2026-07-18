@@ -20,7 +20,7 @@ The first stage adapts the pretrained InternVL2.5-8B model to the multimodal cyb
 ### Training Curve
 
 <p align="center">
-  <img src="../assets/sft_loss_curve.png" width="700" alt="SFT Training Loss">
+  <img src="../assets/SFT_Loss.jpg" width="700" alt="SFT Training Loss">
 </p>
 
 ---
@@ -38,7 +38,7 @@ The second stage refines the model's reasoning ability using **Direct Preference
 ### Training Curve
 
 <p align="center">
-  <img src="../assets/dpo_loss_curve.png" width="700" alt="DPO Training Loss">
+  <img src="../assets/DPO_Loss.jpg" width="700" alt="DPO Training Loss">
 </p>
 
 ---
