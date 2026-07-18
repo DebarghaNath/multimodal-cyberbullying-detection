@@ -278,3 +278,31 @@ The primary contribution is not only improved classification performance, but th
 
 ---
 
+# Repository Overview
+
+The repository is organized into modular components that separate the model architecture, datasets, training pipeline, experimental results, and pretrained adapters. This structure is intended to facilitate reproducibility, readability, and future development.
+
+```text
+Multimodal-Cyberbullying-Detection/
+│
+├── adapters/
+├── architecture/
+├── assets/
+├── data/
+├── notebooks/
+│
+├── RESULTS.md
+├── README.md
+└── requirements.txt
+```
+
+| Directory | Purpose |
+|----------|---------|
+| **adapters/** | Contains links and documentation for the trained LoRA adapters hosted on Hugging Face, including both the SFT and DPO checkpoints. |
+| **architecture/** | Documents the proposed framework, including the InternVL2.5-8B backbone, the explainable forensic schema, and the overall multimodal reasoning pipeline. |
+| **assets/** | Stores figures, diagrams, plots, confusion matrices, dataset visualizations, and other images referenced throughout the documentation. |
+| **data/** | Describes the datasets used for training and evaluation, including annotation guidelines, dataset statistics, schema definitions, and representative examples. |
+| **notebooks/** | Contains the complete Google Colab notebooks for Stage-I SFT, Stage-II DPO, and final inference and evaluation. |
+| **RESULTS.md/** | Presents quantitative and qualitative evaluation results, including training curves, confusion matrices, classification metrics, and detailed performance analyses. |
+
+---
