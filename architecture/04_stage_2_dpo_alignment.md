@@ -3,6 +3,11 @@
 ## Normative Preference Alignment
 To resolve the limitations of MLE and statistical literalism, Stage 2 implements DPO to shift the model's decision boundary toward high-acuity sociolinguistic reasoning. This stage is responsible for elevating the final research accuracy to 80.60%.
 
+<p align="center">
+  <img src="../assets/DPO_Pipeline.jpg" width="650" alt="Bullying Distribution">
+</p>
+
+
 ## DPO Configuration & Hyperparameters
 The optimization environment is configured as follows:
 * **Optimization Algorithm:** Direct Preference Optimization (`rlhf_type: dpo`).
