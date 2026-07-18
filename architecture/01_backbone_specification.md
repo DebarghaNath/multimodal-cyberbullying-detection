@@ -14,6 +14,10 @@ InternVL2.5-8B serves as the backbone throughout both stages of the training pip
 
 Several open-source Large Vision-Language Models (LVLMs) were evaluated on a custom benchmark consisting of **60 high-complexity multimodal memes** containing implicit cyberbullying.
 
+<p align="center">
+  <img src="../assets/InternVL2_5_Overview.jpg" width="650" alt="Bullying Distribution">
+</p>
+
 Unlike conventional toxicity detection, these memes require joint reasoning over:
 
 - Visual context
